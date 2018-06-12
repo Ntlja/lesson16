@@ -1,0 +1,14 @@
+#ball {
+  position: absolute;
+  background-image: url("../spacecat.png");
+  background-size: cover;
+  background-position: center;
+  /* background: olive; */
+  border-radius: 50%;
+}
+
+#ball2 {
+  position: absolute;
+  background: lightblue;
+  border-radius: 50%;
+}
